@@ -32,7 +32,7 @@ if (isset($_POST['login'])) {
 			
 			header("Location: index.php");
 		}else
-		$errormsg = "Esta cuenta esta desactivada";
+		$errormsg = "Esta cuenta esta desactivada o no existe";
 	} else {
 		$errormsg = "Revisa los datos!!!";
 	}
@@ -42,7 +42,7 @@ if (isset($_POST['login'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Inicio de session</title>
+	<title>Inicio de Sesiòn</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
