@@ -53,7 +53,7 @@
 	<h1 style="text-align: justify; font-size: 15px;">Derechos de los niños, niñas y adolescentes</h1>
 
 	<h3 style="text-align: justify;font-size: 12px;"> Los Derechos Humanos de niñas, niños y adolescentes están previstos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales y en las demás leyes aplicables, esencialmente en la Convención sobre los Derechos del Niño y en la Ley General de los Derechos de Niñas, Niños y Adolescentes la cual reconoce a niñas, niños y adolescentes como titulares de derechos y, en su artículo 13, de manera enunciativa y no limitativa señala los siguientes: </h3>
-
+	<p> Derechos fundamentales </p>
 </div>
 
 <div id="contenedor">
